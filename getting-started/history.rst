@@ -70,7 +70,11 @@ Several significant changes have been introduced in recent releases,
 .. [22] https://github.com/thijse/dockpanelsuite/
 .. [23] https://github.com/dockpanelsuite/dockpanelsuite/issues/317
 
+
+
 Related Resources
 -----------------
 
-* :doc:` /getting-started/installing-in-visualstudio`
+* :doc:`/getting-started/installing-in-visualstudio`
+
+

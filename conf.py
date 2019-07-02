@@ -15,7 +15,6 @@ import sys
 
 sys.path.insert(0, os.path.abspath('./'))
 
-print(os.path.abspath('./'))
 
 # -- Project information -----------------------------------------------------
 
@@ -98,7 +97,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path(),]
 
 
 html_theme_options = {
-    'canonical_url': 'https://github.com/readthedocs/sphinx_rtd_theme',
+    'canonical_url': 'https://github.com/haikejishu/sphinxTest',
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
